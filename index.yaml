@@ -30,4 +30,14 @@ entries:
     urls:
     - ms-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-19T11:16:37.5868927+11:00"
+  ortelius-console:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-10-19T03:42:10.801754483Z"
+    description: A Helm chart for Kubernetes
+    digest: 906f0f9f06f7a8ca948f5da179b83ea864ddcbdbd869fcf72ff77fbea5413b86
+    name: ortelius-console
+    urls:
+    - https://github.com/benhpoh/ortelius/releases/download/ortelius-console-0.1.0/ortelius-console-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-19T03:42:10.801764383Z"
